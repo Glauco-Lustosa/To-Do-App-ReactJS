@@ -80,7 +80,7 @@ This is Just a few points, but the main reason this one was created is because i
 
 ### Built With
 
-This section is for all frameworks/libraries used on this project.If you wanna know more about the framework/library just click on it :smile:. Here are a few examples.
+This section is for all frameworks/libraries used on this project.If you wanna know more about the framework/library just click on it :smile:.
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -96,33 +96,38 @@ This section is for all frameworks/libraries used on this project.If you wanna k
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+For you run this project you will need to install it locally using npm.
 
 ### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
-  npm install npm@latest -g
+  npm install
   ```
 
 ### Installation
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/your_username_/To-Do-App-ReactJS.git
    ```
+2.Create or open the terminal 
+Mac: Control + Shift + `
+Windows: Ctrl + Shift + `
+
 3. Install NPM packages
    ```sh
-   npm install
+   npm install  
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+4. Enter on the project folder
+   ```sh
+   cd todoapp
+   ```
+
+4. Run start command on npm
+   ```sh
+   npm start
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
