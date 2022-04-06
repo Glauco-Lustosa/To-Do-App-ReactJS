@@ -98,34 +98,25 @@ This section is for all frameworks/libraries used on this project.If you wanna k
 
 For you run this project you will need to install it locally using npm.
 
-### Prerequisites
-* npm
-  ```sh
-  npm install
-  ```
-
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Clone the repo
-   ```sh
+1. Clone the repository
+   ```bash
    git clone https://github.com/your_username_/To-Do-App-ReactJS.git
    ```
-2. Create or open the terminal 
-` Mac: Control + Shift + backticks `
-` Windows: Ctrl + Shift + backticks `
+
+2. Enter on the folder project
+   ```bash
+  cd To-Do-App-ReactJS
+  cd todoapp
+   ```
 
 3. Install NPM packages
    ```bash
    npm install  
    ```
-4. Enter on the project folder
-   ```bash
-   cd todoapp
-   ```
 
-5. Run start command on npm
+4. Run start command on npm
    ```bash
    npm start
    ```
