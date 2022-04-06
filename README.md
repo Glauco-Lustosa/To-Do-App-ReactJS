@@ -104,20 +104,19 @@ For you run this project you will need to install it locally using npm.
    ```bash
    git clone https://github.com/your_username_/To-Do-App-ReactJS.git
    ```
-
-2. Enter on the folder project
-   ```sh
-  cd To-Do-App-ReactJS
-  cd todoapp
+2. Clone the repository
+   ```bash
+    cd To-Do-App-ReactJS
+    cd todoapp
    ```
 
 3. Install NPM packages
-   ```sh
+   ```bash
    npm install  
    ```
 
 4. Run start command on npm
-   ```sh
+   ```bash
    npm start
    ```
 
