@@ -125,7 +125,7 @@ _Below is an example of how you can instruct your audience on installing and set
    cd todoapp
    ```
 
-4. Run start command on npm
+5. Run start command on npm
    ```bash
    npm start
    ```
