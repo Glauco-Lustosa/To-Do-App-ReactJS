@@ -112,21 +112,21 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    git clone https://github.com/your_username_/To-Do-App-ReactJS.git
    ```
-2.Create or open the terminal 
-Mac: Control + Shift + `
-Windows: Ctrl + Shift + `
+2. Create or open the terminal 
+` Mac: Control + Shift + backticks `
+` Windows: Ctrl + Shift + backticks `
 
 3. Install NPM packages
-   ```sh
+   ```bash
    npm install  
    ```
 4. Enter on the project folder
-   ```sh
+   ```bash
    cd todoapp
    ```
 
 4. Run start command on npm
-   ```sh
+   ```bash
    npm start
    ```
 
