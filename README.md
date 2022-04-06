@@ -129,6 +129,9 @@ Glauco Lustosa - [@glaucolusto](https://twitter.com/glaucolusto)
 
 Project Link: [https://github.com/X-Suco-De-Fruta-X/To-Do-App-ReactJS](https://github.com/X-Suco-De-Fruta-X/To-Do-App-ReactJS)
 
+
+LinkedIN [https://github.com/X-Suco-De-Fruta-X/To-Do-App-ReactJS](https://github.com/X-Suco-De-Fruta-X/To-Do-App-ReactJS)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
