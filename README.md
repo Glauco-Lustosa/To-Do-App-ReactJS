@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/X-Suco-De-Fruta-X/To-Do-App-ReactJS">
     <img src="images/todoIcon.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -64,20 +64,19 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+This project is a task organizer it is separated into two topics Completed and Not Completed. This app have filters for better organization based on those topics.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+This app is needed for a few points:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+<strong>Improves your memory:</strong> A to-do list works as an external memory helper. It is only possible to store some information at one time. Keep a to-do list and you'll be able to keep track of everything, rather than just some of the tasks you need to do. Your to-do list will also reinforce the information, which makes it less likely that you'll forget something.
 
-Use the `BLANK_README.md` to get started.
+<strong>Increases productivity:</strong> A to-do list lets you prioritize the most important tasks. This means you don't waste time on tasks that don't require your immediate attention. Your list will help you stay focused on the most important tasks.
+
+<strong>Helps with motivation:</strong> To-do lists are a great motivational tool because you can use them to clarify your goals. You can break your long-term goal down into smaller, more achievable short-term goals, and as you tick each one off your list, your confidence will increase.
+ 
+This is Just a few points, but the main reason this one was created is because it's a great workout for anyone trying to learn a new framework or library, with concepts of manipulation, deletion, addition and memory management.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 ### Built With
 
