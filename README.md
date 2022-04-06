@@ -7,8 +7,6 @@
 [![twitter][twitter-shield]][twitter-url]
 [![whatsapp][whatsapp-shield]][whatsapp-url]
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -125,16 +123,11 @@ For you run this project you will need to install it locally using npm.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+This project was built and posted on youtube by DeivId, Thanks for the free study material!
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
+* [DevEd](https://github.com/developedbyed/)
 * [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
