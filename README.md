@@ -127,10 +127,14 @@ For you run this project you will need to install it locally using npm.
 
 Glauco Lustosa - [@glaucolusto](https://twitter.com/glaucolusto) 
 
-Project Link: [https://github.com/X-Suco-De-Fruta-X/To-Do-App-ReactJS](https://github.com/X-Suco-De-Fruta-X/To-Do-App-ReactJS)
+### Communications Channels:
 
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 
-LinkedIN [https://github.com/X-Suco-De-Fruta-X/To-Do-App-ReactJS](https://github.com/X-Suco-De-Fruta-X/To-Do-App-ReactJS)
+<br />
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
