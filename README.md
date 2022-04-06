@@ -106,18 +106,18 @@ For you run this project you will need to install it locally using npm.
    ```
 
 2. Enter on the folder project
-   ```bash
+   ```sh
   cd To-Do-App-ReactJS
   cd todoapp
    ```
 
 3. Install NPM packages
-   ```bash
+   ```sh
    npm install  
    ```
 
 4. Run start command on npm
-   ```bash
+   ```sh
    npm start
    ```
 
