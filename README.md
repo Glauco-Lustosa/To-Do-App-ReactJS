@@ -122,22 +122,12 @@ For you run this project you will need to install it locally using npm.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Glauco Lustosa - [@glaucolusto](https://twitter.com/glaucolusto) 
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/X-Suco-De-Fruta-X/To-Do-App-ReactJS](https://github.com/X-Suco-De-Fruta-X/To-Do-App-ReactJS)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
