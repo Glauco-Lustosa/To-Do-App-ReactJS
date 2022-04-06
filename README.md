@@ -3,6 +3,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![instagram][instagram-shield]][instagram]
 
 
 
