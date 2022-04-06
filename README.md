@@ -167,6 +167,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-url]: https://linkedin.com/in/glauco-lustosa
 [instagram-url]: https://instagram.com/glauco.lustosa
 [twitter-url]: https://twitter.com/GlaucoNao
-[whatsapp-url]: https://twitter.com/GlaucoNao
+[whatsapp-url]: https://api.whatsapp.com/send?phone=5511945311198&text=Ol%C3%A1%2C%20vi%20seu%20GitHub%20e%20estou%20interessado%20no%20seu%20trabalho.
 [product-screenshot]: images/screenshot.png
-[whatsapp]: https://api.whatsapp.com/send?phone=5511945311198&text=Ol%C3%A1%2C%20vi%20seu%20GitHub%20e%20estou%20interessado%20no%20seu%20trabalho.
