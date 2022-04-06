@@ -80,16 +80,14 @@ This is Just a few points, but the main reason this one was created is because i
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This section is for all frameworks/libraries used on this project.If you wanna know more about the framework/library just click on it :smile:. Here are a few examples.
 
-* [Next.js](https://nextjs.org/)
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [JavaScript](https://www.javascript.com)
 * [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
 * [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [FontAwesome](https://fontawesome.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
