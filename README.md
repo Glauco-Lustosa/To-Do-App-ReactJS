@@ -19,7 +19,7 @@
   <h3 align="center">To Do App - ReactJS</h3>
 
   <p align="center">
-    An awesome <strong>TO DO APP</strong> created to improve skills  on React JS!
+    An awesome <strong>To Do App</strong> created to improve skills  on React JS!
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
