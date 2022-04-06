@@ -163,7 +163,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [instagram-shield]: https://img.shields.io/badge/-instagram-black.svg?style=for-the-badge&logo=instagram&colorB=555
 [twitter-shield]: https://img.shields.io/badge/-twitter-black.svg?style=for-the-badge&logo=twitter&colorB=555
-[whatsapp-shield]: https://img.shields.io/badge/-twitter-black.svg?style=for-the-badge&logo=twitter&colorB=555
+[whatsapp-shield]: https://img.shields.io/badge/-whatsapp-black.svg?style=for-the-badge&logo=whatsapp&colorB=555
 [linkedin-url]: https://linkedin.com/in/glauco-lustosa
 [instagram-url]: https://instagram.com/glauco.lustosa
 [twitter-url]: https://twitter.com/GlaucoNao
